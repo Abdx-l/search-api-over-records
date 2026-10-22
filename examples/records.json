@@ -1,0 +1,6 @@
+[
+  {"id":"r1","name":"Bridge Inspection Office","body":"Annual bridge inspections and maintenance reports","state":"ON","role":"agency","org_type":"public"},
+  {"id":"r2","name":"Road Works Directory","body":"Road repair notices and traffic closures","state":"ON","role":"agency","org_type":"public"},
+  {"id":"r3","name":"Bridge Materials Ltd","body":"Steel components for infrastructure","state":"QC","role":"supplier","org_type":"business"}
+]
+
